@@ -3,7 +3,7 @@ kind: Droplet
 metadata:
   name: GeorgeNSR-crossplane-droplet
   annotations:
-    crossplane.io/external-name: crossplane-droplet
+    crossplane.io/external-name: GeorgeNSR-crossplane-droplet
     argocd.argoproj.io/sync-options: SkipDryRunOnMissingResource=true
 spec:
   forProvider:
