@@ -14,7 +14,7 @@ spec:
     nodePools:
       - size: s-1vcpu-2gb
         count: 1
-        name: GeorgeNSR-worker-pool
+        name: georgensr-worker-pool
     maintenancePolicy:
       startTime: "00:00"
       day: wednesday
