@@ -21,4 +21,3 @@ spec:
     autoUpgrade: true
     surgeUpgrade: false
     highlyAvailable: false
-EFO
